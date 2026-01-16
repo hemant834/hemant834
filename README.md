@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Web Development projects.<br>I’m looking to collaborate on Frontend Web Development projects And React.js & JavaScript based applications.<br>I’m currently learning, JavaScript (ES6+), React.js, Responsive Web Design.<br>Ask me about  HTML, CSS, JavaScript, Frontend Development.<br>Fun fact I love building projects from scratch and learning by doing 🚀
+I’m currently working on Web Development projects.<br>I’m looking to collaborate on Frontend Web Development projects And React.js & JavaScript based applications.<br>I’m currently learning, JavaScript (ES6+), React.js, Responsive Web Developer.<br>Ask me about  HTML, CSS, JavaScript, Frontend Development.<br>Fun fact I love building projects from scratch and learning by doing 🚀
 
 
 ## 🌐 Socials:
